@@ -1,9 +1,0 @@
-# ninja log v6
-14	108	7794046625441921	main_autogen/timestamp	c0deb15aad70574f
-109	1146	7794046626394928	CMakeFiles/main.dir/main.cpp.obj	1efbe77e6905bdb4
-14	108	7794046625441921	main_autogen/mocs_compilation.cpp	c0deb15aad70574f
-2212	2379	7794046647420989	main.exe	576ee1f1749a17a0
-14	108	7794046625441921	C:/Users/user/Documents/main/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/main_autogen/timestamp	c0deb15aad70574f
-14	108	7794046625441921	C:/Users/user/Documents/main/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug/main_autogen/mocs_compilation.cpp	c0deb15aad70574f
-306	2130	7793045185341670	CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj	aaea5667846fa8b6
-112	2211	7794046626414931	CMakeFiles/main.dir/mainwindow.cpp.obj	1134ce3f0b1defaf
